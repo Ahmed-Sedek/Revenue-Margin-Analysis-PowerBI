@@ -63,5 +63,5 @@ data-driven pricing and capital allocation decisions.
 ## 👤 Author
 **Ahmed Mohamed Sedek** — Data Analyst
 📧 ahmedsedek295@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/Ahmed_Sedek)
+🔗 [LinkedIn](www.linkedin.com/in/ahmed-sedek-2869a1244)
 🌍 Cairo, Egypt · Open to remote opportunities
