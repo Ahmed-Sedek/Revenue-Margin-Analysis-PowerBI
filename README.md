@@ -1,4 +1,4 @@
-# 💰 Revenue & Margin Analysis — Power BI Dashboard
+# 💵 Revenue & Margin Analysis — Power BI Dashboard
 
 ## 📌 Overview
 An interactive Power BI financial dashboard analyzing 
